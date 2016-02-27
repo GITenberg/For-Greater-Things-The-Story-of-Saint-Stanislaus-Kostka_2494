@@ -1,0 +1,23 @@
+_repo: For-Greater-Things-The-Story-of-Saint-Stanislaus-Kostka_2494
+creator:
+  author:
+    agent_name: Kane, William T. (William Terence)
+    alias: Kane, W. T. (William Terence)
+    birthdate: 1880
+    deathdate: 1946
+    gutenberg_agent_id: '938'
+    url: http://www.gutenberg.org/2009/agents/938
+description: ''
+gutenberg_issued: '2001-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2494'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kostka, Stanislas, Saint, 1550-1568'
+- !lcc 'BX'
+title: 'For Greater Things: The Story of Saint Stanislaus Kostka'
+url: http://www.gutenberg.org/ebooks/2494
