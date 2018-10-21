@@ -1,5 +1,5 @@
 _repo: For-Greater-Things-The-Story-of-Saint-Stanislaus-Kostka_2494
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,5 +25,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Kostka, Stanislas, Saint, 1550-1568'
 - !lcc 'BX'
+- GITenberg
 title: 'For Greater Things: The Story of Saint Stanislaus Kostka'
 url: http://www.gutenberg.org/ebooks/2494
